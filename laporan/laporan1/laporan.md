@@ -119,7 +119,7 @@ Cara kerja:
 - Setelah data ditemukan dan diolah, model akan mengirimkan data tersebut kepada controller untuk ditampilkan di view.
 - Controller akan mengambil data hasil pengolahan model dan mengaturnya di bagian view untuk ditampilkan kepada pengguna.
 
-<img src="../laporan1/gambar/Diagram MVC.jpg">
+<img src="../gambar/Diagram MVC.jpg">
 
 ---
 
